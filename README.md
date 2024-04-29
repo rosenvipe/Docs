@@ -5,5 +5,5 @@ These documents ('documents' & 'docs') is surrounded on Pinkster ("Pinkster", "P
 These documents on this "Reposit" ('Page', 'Website', 'Site', 'Address', 'Web-address') will be the legal and official document-files of Pinkster.
 
 1. Other Documents
-§1.1 - [Terms of Service]()
+§1.1 - [Terms of Service]() <br>
 §1.2 - [Privacy Policy]()
