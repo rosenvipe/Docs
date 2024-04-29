@@ -1,16 +1,9 @@
-# 📖 READ THIS FIRST 📖
+# Documents and Introduction
 
-This contains the code for the Discord Application "**🌸 Pinkster**"
+These documents ('documents' & 'docs') is surrounded on Pinkster ("Pinkster", "Pinkster Bot", "Discord Application", "Discord Bot", "App", "Application", "Bot", "Pinkster 🌸", "Pinkster 🌸#5182" & "1233631965828218901") Project.
 
-The code language is known from **Bot Designer For Discord** (BDFD) -application, which has been created for people to create their own Discord Bots. The script or code language is called "BDScript2 ".
+These documents on this "Recretary" ('Page', 'Website', 'Site', 'Address', 'Web-address') will be the legal and official document-files of Pinkster.
 
-## 📊 Bot Status Information
-
-Our application's status has been edited with BDFD -app, by setting the bot status to be online and to change the interval time to 12 seconds.
-
-Then we created a status, of Online with customized text, such as
-```
-/help | $serverCount Servers
-```
-
-Status prefix is "Playing", and the description of it is just ".."
+1. Other Documents
+§1.1 - [Terms of Service]()
+§1.2 - [Privacy Policy]()
